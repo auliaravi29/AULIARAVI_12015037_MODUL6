@@ -17,9 +17,9 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".Model.AddPostActivity" android:parentActivityName=".MainActivity" />
-        <activity android:name=".Model.DetailPostActivity" android:parentActivityName=".MainActivity"/>
-        <activity android:name=".Model.LoginActivity" />
+        <activity android:name=".AddPostActivity" android:parentActivityName=".MainActivity" />
+        <activity android:name=".DetailPostActivity" android:parentActivityName=".MainActivity"/>
+        <activity android:name=".LoginActivity" />
     </application>
 
 </manifest>
