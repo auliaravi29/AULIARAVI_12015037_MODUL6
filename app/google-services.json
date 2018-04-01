@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "115583701883",
+    "firebase_url": "https://auliaravi1202150037modul6.firebaseio.com",
+    "project_id": "auliaravi1202150037modul6",
+    "storage_bucket": "auliaravi1202150037modul6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:115583701883:android:22027bfd25baf2de",
+        "android_client_info": {
+          "package_name": "com.example.asus.auliaravi_1202150037_modul6"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "115583701883-rh3hg8bv3j0gpkqv5bv449d2lqau4vap.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.asus.auliaravi_1202150037_modul6",
+            "certificate_hash": "e6286ed719bf9f039acdeba8609a169c93137d05"
+          }
+        },
+        {
+          "client_id": "115583701883-ubpdmuh6921lnqpj91654mmnkltv4u9l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuPY1Ttdh2mekz3P1PJH10T5QPRocfsus"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "115583701883-ubpdmuh6921lnqpj91654mmnkltv4u9l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
